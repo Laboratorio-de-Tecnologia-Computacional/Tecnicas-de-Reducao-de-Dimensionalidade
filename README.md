@@ -1,0 +1,1 @@
+# T-cnicas-de-Redu-o-de-Dimensionalidade
